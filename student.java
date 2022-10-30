@@ -42,7 +42,7 @@ if (s[i].cgpa>r)//cgpa
 r=s[i].cgpa;
 l=i;
 }
-if((s[i].name.compareTo("ANU")==0)
+if((s[i].name.compareTo("ANU"))==0)
 {
 n=i;}
 if(s[i].age<o)
